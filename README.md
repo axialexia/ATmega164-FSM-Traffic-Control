@@ -19,6 +19,4 @@ This project implements an intelligent traffic control system using the Atmel AT
 * **Development Environment:** CodeVisionAVR.
 * **Inputs/Outputs:** Uses PORTB for LED signaling and PIND for sensor/button inputs.
 
-## Documentation
-For a full technical breakdown, logic tables, and state diagrams, please refer to the attached PDF:
-* [📄 Technical Documentation (PDF)](Semafor_Inteligent_Prioritizare_Urgenta(1).pdf)
+
